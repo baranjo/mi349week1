@@ -3,7 +3,6 @@ body {
     background: #ffff;
     font-family: Helvetica, sans-serif;
     align-self: center; 
-    width: 66%;
 }
 
 img {
@@ -12,8 +11,8 @@ img {
 
 .container {
     display: flex;
-    justify-content: center; /* Center horizontally */
-    align-items: center; /* Center vertically */
-    height: 100vh; /* Optional: Set a specific height if needed */
+    justify-content: center;
+    align-items: center;
+    width: 70%;
   }
   
