@@ -16,4 +16,8 @@ img {
     width: 100%;
     flex-direction: column; /* Items stack vertically */
   }
+
+.sub-container {
+    display: flex;
+}
   
