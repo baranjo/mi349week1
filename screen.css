@@ -28,6 +28,11 @@ img {
     flex-direction: row; /* Items stack vertically */
 }
 
+.content {
+    color: #ccc;
+    width: 49%;
+}
+
 .box {
     display: flex;
     flex-direction: row; /* Items are laid out horizontally */
