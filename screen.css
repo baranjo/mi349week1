@@ -19,5 +19,6 @@ img {
 
 .sub-container {
     display: flex;
+    flex-direction: row;
 }
   
