@@ -12,8 +12,8 @@ img {
 .container {
     display: flex;
     justify-content: center;
-    align-items: center;
-    width: 70%;
+    align-items: left;
+    width: 100%;
     flex-direction: column; /* Items stack vertically */
   }
   
