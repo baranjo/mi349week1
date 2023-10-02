@@ -29,9 +29,10 @@ img {
 }
 
 .content {
-    background-color: #ccc;
-    width: 49%;
+    background-color: #eeeeee;
+    width: 50%;
     border-radius: 10px;
+    padding-right: 5%;
 }
 
 .box {
