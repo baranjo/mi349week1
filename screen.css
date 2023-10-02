@@ -2,6 +2,7 @@
 body {
     background: #ffff;
     font-family: Helvetica, sans-serif;
+    align-self: center; 
 }
 
 img {
