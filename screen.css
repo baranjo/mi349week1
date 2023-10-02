@@ -23,8 +23,8 @@ img {
 .container2 {
     display: grid;
     grid-template-columns: repeat(2, 1fr); /* Creates a 3-column grid */
-    grid-gap: 20px; /* Adds 10px of space between grid items */
-    padding-top: 20%;
+    grid-gap: 5px; /* Adds 10px of space between grid items */
+    padding-top: 10%;
     justify-content: center;
     width: 100%;
     flex-direction: row; /* Items stack vertically */
