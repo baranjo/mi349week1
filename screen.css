@@ -2,7 +2,7 @@
 body {
     background: #ffff;
     font-family: Helvetica, sans-serif;
-    align-self: center; 
+    align-self: center;
 }
 
 img {
@@ -14,5 +14,6 @@ img {
     justify-content: center;
     align-items: center;
     width: 70%;
+    flex-direction: column; /* Items stack vertically */
   }
   
