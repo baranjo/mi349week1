@@ -29,9 +29,32 @@ main {
     flex-grow: 1;
     flex-basis: 0;
     background: #eee;
-    padding: 20px;
     border-radius: 20px;
     margin-top: 25px;
+}
+
+.details section p {
+    margin: 20px;
+}
+
+.details section h2 {
+    margin: 20px;
+}
+
+.details section.with-code {
+    padding: 0;
+}
+
+div.code-copy {
+    padding: 25px;
+}
+
+div.code-html {
+    padding: 25px;
+    background: #424242;
+    color: #fff;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 
 img {
@@ -45,6 +68,7 @@ h1 {
     background-position: center left;
     font-size: 3em;
     padding-left: 50px;
+    margin: 100px 0 25px 0;
 }
 
 h2 {
