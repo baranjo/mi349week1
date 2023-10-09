@@ -2,14 +2,48 @@
 body {
     background: #ffff;
     font-family: Helvetica, sans-serif;
-    align-self: center;
-    padding-left: 25%;
-    padding-right: 25%;
-    padding-top: 5%;
+    border-top: 15px solid #424242;
+    margin: 0;
+}
+
+main {
+    margin: 0 auto;
+    width: 800px;
+}
+
+.masthead {
+    background-image: url('images/mac.jpg');
+    background-size: cover;
+    background-position: bottom;
+    height: 250px;
+    border-radius: 20px;
+}
+
+.details {
+    display: flex;
+    gap: 25px;
+}
+
+.details section {
+    flex-grow: 1;
+    flex-basis: 0;
+    background: #eee;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 25px;
 }
 
 img {
     width: 100%;
+}
+
+h2 {
+    margin: 0 0 10px 0;
+}
+
+p {
+    margin: 0;
+    line-height: 1.4em;
 }
 
 .container {
